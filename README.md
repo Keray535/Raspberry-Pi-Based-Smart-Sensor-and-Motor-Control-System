@@ -88,7 +88,7 @@ The project uses the following modular file structure:
 3.  **Create and Activate a Python Virtual Environment (Recommended):**
     ```bash
     python3 -m venv .venv
-    source .venv/bin/activate
+    source venv/bin/activate
     ```
     *(To exit the virtual environment, use the `deactivate` command.)*
 
@@ -214,7 +214,7 @@ Das Projekt verwendet die folgende modulare Dateistruktur:
 3.  **Python Virtuelle Umgebung Erstellen und Aktivieren (Empfohlen):**
     ```bash
     python3 -m venv .venv
-    source .venv/bin/activate
+    source venv/bin/activate
     ```
     *(Um die virtuelle Umgebung zu verlassen, verwenden Sie den Befehl `deactivate`.)*
 
