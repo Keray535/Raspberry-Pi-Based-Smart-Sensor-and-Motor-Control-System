@@ -1,7 +1,5 @@
 # Raspberry Pi Based Smart Sensor and Motor Control System (EN)
 
-This project aims to create a DC motor control system that is sensitive to environmental conditions (temperature, humidity, distance) using a Raspberry Pi 3. The system also monitors performance metrics of the Raspberry Pi, such as CPU temperature, CPU, and RAM usage, integrating resource and thermal management.
-
 
 ## About the Project
 
@@ -129,8 +127,6 @@ Contributions are welcome! If you find a bug, want to improve a feature, or have
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 # Raspberry Pi Based Smart Sensor and Motor Control System (DE)
-
-Dieses Projekt zielt darauf ab, ein DC-Motorsteuerungssystem zu erstellen, das auf Umgebungsbedingungen (Temperatur, Luftfeuchtigkeit, Entfernung) reagiert und einen Raspberry Pi 3 verwendet. Das System überwacht auch Leistungsmetriken des Raspberry Pi, wie CPU-Temperatur, CPU- und RAM-Auslastung, und integriert Ressourcen- und Wärmemanagement.
 
 
 Dieses Projekt ermöglicht die autonome Steuerung eines Gleichstrommotors basierend auf bestimmten Bedingungen unter Verwendung eines Raspberry Pi 3, eines DHT11 Temperatur-Feuchtigkeitssensors, eines HC-SR04 Ultraschall-Distanzsensors und eines L293D Motortreibers. Zusätzlich werden zur Überwachung des Gesamtzustands und der Leistung des Systems CPU-Temperatur, CPU- und RAM-Auslastungsraten gemessen, wodurch Ressourcen- und Wärmemanagementfunktionen integriert werden.
