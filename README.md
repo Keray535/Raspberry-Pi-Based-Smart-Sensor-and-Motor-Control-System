@@ -76,7 +76,7 @@ The project uses the following modular file structure:
 
 1.  **Clone the Repository:**
     ```bash
-    git clone <project_repo_url>
+    git clone https://github.com/Keray535/Raspberry-Pi-Based-Smart-Sensor-and-Motor-Control-System.git
     ```
 
 2.  **Install Required System Packages (If not already installed):**
@@ -202,7 +202,7 @@ Das Projekt verwendet die folgende modulare Dateistruktur:
 
 1.  **Repository:**
     ```bash
-    git clone <projekt_repo_url>
+    git clone https://github.com/Keray535/Raspberry-Pi-Based-Smart-Sensor-and-Motor-Control-System.git
     ```
 
 2.  **Erforderliche Systempakete Installieren (Falls noch nicht installiert):**
