@@ -3,7 +3,6 @@
 This project aims to create a DC motor control system that is sensitive to environmental conditions (temperature, humidity, distance) using a Raspberry Pi 3. The system also monitors performance metrics of the Raspberry Pi, such as CPU temperature, CPU, and RAM usage, integrating resource and thermal management.
 
 
-
 ## About the Project
 
 This project enables the autonomous control of a DC motor based on specific conditions using a Raspberry Pi 3, a DHT11 temperature-humidity sensor, an HC-SR04 ultrasonic distance sensor, and an L293D motor driver. Additionally, to monitor the overall health and performance of the system, CPU temperature, CPU, and RAM usage rates are measured, integrating resource and thermal management capabilities.
