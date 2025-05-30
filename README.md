@@ -127,8 +127,6 @@ Contributions are welcome! If you find a bug, want to improve a feature, or have
 4.  Push your branch (`git push origin feature/AmazingFeature`).
 5.  Open a Pull Request (PR).
 
-Please ensure your code is tested and adheres to the project's coding style before opening a PR.
-
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 # Raspberry Pi Based Smart Sensor and Motor Control System (DE)
@@ -256,8 +254,6 @@ Beiträge sind willkommen! Wenn Sie einen Fehler finden, eine Funktion verbesser
 3.  Committen Sie Ihre Änderungen (`git commit -m 'Füge TollesFeature hinzu'`).
 4.  Pushen Sie Ihren Branch (`git push origin feature/TollesFeature`).
 5.  Öffnen Sie einen Pull Request (PR).
-
-Bitte stellen Sie sicher, dass Ihr Code getestet ist und dem Programmierstil des Projekts entspricht, bevor Sie einen PR öffnen.
 
 
 ## Authors
